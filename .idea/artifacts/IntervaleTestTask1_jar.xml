@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IntervaleTestTask1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntervaleTestTask1_jar</output-path>
+    <root id="archive" name="IntervaleTestTask1.jar">
+      <element id="module-output" name="IntervaleTestTask1" />
+    </root>
+  </artifact>
+</component>
